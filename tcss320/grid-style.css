@@ -1,0 +1,17 @@
+.container, .row {
+    width:100%
+}
+
+.col1, .col2, .col3 {
+    float: left;
+    width:25.3333333%;
+    margin:1%;
+    padding:1%;
+    background-color: red;
+}
+
+
+div:nth-of-type(even){
+    background-color: blue;
+}
+
